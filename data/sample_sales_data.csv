@@ -1,0 +1,7 @@
+month,segment,revenue_gbp,orders,avg_order_value_gbp
+Jan,Retail,6800,210,32.38
+Feb,Retail,7200,220,32.73
+Mar,Retail,8100,238,34.03
+Apr,Student,5200,190,27.37
+May,Student,6100,205,29.76
+Jun,Professional,9400,185,50.81

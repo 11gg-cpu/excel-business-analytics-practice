@@ -27,6 +27,15 @@ A business analytics practice repository covering data cleaning, pivot tables, c
   <img src="assets/workflow-preview.svg" alt="Excel analytics workflow preview" width="100%" />
 </p>
 
+## Screenshot & Data Output
+
+<p align="center">
+  <img src="dashboard/excel-dashboard-preview.svg" alt="Excel business dashboard preview" width="100%" />
+</p>
+
+- Sample sales dataset: [`data/sample_sales_data.csv`](data/sample_sales_data.csv)
+- Business insight report: [`reports/business-insights.md`](reports/business-insights.md)
+
 ## Project Background
 
 Excel remains one of the most common tools for business analysis. This project packages Excel analytics practice into a recruiter-readable repository that shows analytical process, dashboard thinking, and business interpretation.
