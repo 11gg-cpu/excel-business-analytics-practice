@@ -21,6 +21,12 @@ A business analytics practice repository covering data cleaning, pivot tables, c
 | Main skills | Data cleaning, pivot analysis, KPI dashboard design, recommendations |
 | Recruiter signal | Can turn raw business data into clear decisions |
 
+## Workflow Preview
+
+<p align="center">
+  <img src="assets/workflow-preview.svg" alt="Excel analytics workflow preview" width="100%" />
+</p>
+
 ## Project Background
 
 Excel remains one of the most common tools for business analysis. This project packages Excel analytics practice into a recruiter-readable repository that shows analytical process, dashboard thinking, and business interpretation.
@@ -77,3 +83,13 @@ excel-business-analytics-practice/
 ## Resume Bullet
 
 - Built an Excel business analytics practice project covering data cleaning, pivot-table analysis, KPI dashboard design, and business recommendation writing.
+
+## Next Improvements
+
+- Add a downloadable sample Excel workbook.
+- Add dashboard screenshots and KPI cards.
+- Add a short business insight report with recommendations.
+
+## Contact
+
+For questions or collaboration: [steventang30999@gmail.com](mailto:steventang30999@gmail.com)
