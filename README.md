@@ -1,6 +1,25 @@
+<p align="center">
+  <img src="assets/project-banner.svg" alt="Excel Business Analytics Practice banner" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Business%20Analytics-16A34A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Tools-Excel%20%7C%20Pivot%20Tables%20%7C%20Dashboards-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Output-KPI%20Storytelling-0D9488?style=flat-square" />
+</p>
+
 # Excel Business Analytics Practice
 
 A business analytics practice repository covering data cleaning, pivot tables, charts, dashboard design, and business recommendations in Excel.
+
+## At a Glance
+
+| Item | Detail |
+| --- | --- |
+| Role fit | Data analyst intern, business analyst intern |
+| Core value | Shows the practical Excel workflow recruiters still expect |
+| Main skills | Data cleaning, pivot analysis, KPI dashboard design, recommendations |
+| Recruiter signal | Can turn raw business data into clear decisions |
 
 ## Project Background
 

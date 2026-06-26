@@ -1,0 +1,8 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="320" rx="28" fill="#0F172A"/>
+  <rect x="54" y="50" width="1092" height="220" rx="24" fill="#111827" stroke="#334155"/>
+  <rect x="810" y="92" width="62" height="138" rx="8" fill="#22C55E"/><rect x="890" y="130" width="62" height="100" rx="8" fill="#84CC16"/><rect x="970" y="74" width="62" height="156" rx="8" fill="#14B8A6"/><rect x="1050" y="160" width="62" height="70" rx="8" fill="#38BDF8"/>
+  <text x="86" y="124" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="44" font-weight="800">Excel Business Analytics Practice</text>
+  <text x="88" y="170" fill="#CBD5E1" font-family="Inter, Arial, sans-serif" font-size="22">Cleaning · pivots · dashboard · recommendations</text>
+  <text x="88" y="242" fill="#BBF7D0" font-family="Inter, Arial, sans-serif" font-size="16">Business analysis built for decision makers</text>
+</svg>
